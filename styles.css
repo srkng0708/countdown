@@ -1,0 +1,42 @@
+/* .container-fluid {
+  padding: 5px 30px 5px 30px;
+} */
+
+/* .photo {
+  width: 50%;
+} */
+
+img {
+  opacity: 0.8;
+}
+
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+.centered {
+  font-size: 50px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* @media (max-width: 1028px) {
+
+  p {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+} */
