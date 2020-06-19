@@ -16,6 +16,10 @@ p {
   margin-top: 0px;
 }
 
+body {
+  background-color: #ffcac2
+}
+
 .centered {
   font-size: 50px;
   font-weight: bold;
